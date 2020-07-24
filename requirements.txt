@@ -1,5 +1,4 @@
 sanic
-Pillow
 natsort
 fastapi
 PYJWT
