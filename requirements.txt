@@ -18,4 +18,4 @@ easydict
 scikit-image==0.14.5
 opencv-python
 scikit-learn==0.22.1
-numpy==1.16.5
+numpy==1.22.0
